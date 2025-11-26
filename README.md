@@ -2,6 +2,8 @@
 
 Part of my **C-Engine Series**, where I merge real mechanical engineering with C programming to build logic-driven tools.
 
+here is the project link :- https://github.com/OmkarRele09/C-Engine-Project-010/blob/main/drivingsafetyratingsystem.c
+
 ## 🔥 About
 This program evaluates driver safety based on **vehicle speed** and **seatbelt status**, similar to decision logic used in modern ECU safety systems.
 
